@@ -1,0 +1,22 @@
+{
+  "lightglue": {
+    "num_matches": 1063,
+    "num_inliers": 707,
+    "inlier_ratio": 0.665098777046096,
+    "mean_confidence": 0.9009013772010803,
+    "median_confidence": 0.9888103008270264,
+    "min_confidence": 0.10356777906417847,
+    "max_confidence": 0.9998655915260315,
+    "time": 0.2778804302215576
+  },
+  "custom": {
+    "num_matches": 787,
+    "num_inliers": 519,
+    "inlier_ratio": 0.6594663278271918,
+    "mean_confidence": 0.9080562591552734,
+    "median_confidence": 0.9191973805427551,
+    "min_confidence": 0.645071804523468,
+    "max_confidence": 0.9849180579185486,
+    "time": 0.005059719085693359
+  }
+}
